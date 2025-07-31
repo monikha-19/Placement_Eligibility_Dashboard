@@ -31,7 +31,7 @@ placement-eligibility-dashboard/
 ├── placement_app.py             # Main Streamlit application      
 ├── notebooks/
 │   └── placement_app.ipynb      # Jupyter Notebook with data analysis and table creation/insertion
-└── README_Final.md                    # This file
+└── README.md                    # This file
 ```
 
 ---
